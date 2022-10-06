@@ -1,6 +1,5 @@
 //Name: Semih
-//Surname: Bað
-//Student ID:150120070
+//Surname: BaÄŸ
 
 
 public interface LocationControl {
